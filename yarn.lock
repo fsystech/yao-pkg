@@ -861,10 +861,10 @@
     "@typescript-eslint/types" "8.55.0"
     eslint-visitor-keys "^4.2.1"
 
-"@yao-pkg/pkg-fetch@3.6.5":
-  version "3.6.5"
-  resolved "https://registry.yarnpkg.com/@yao-pkg/pkg-fetch/-/pkg-fetch-3.6.5.tgz#e6eab79062b921ccd54f337f17501ae67bf7e21b"
-  integrity sha512-Sd1Hff7imsF2rcZ2GLQuIzVm2fc3Za+nE4KSWPTwIYegN/r90UFg3bq0MLSugbWQaVht72zzxV0MiKE0wvT1zA==
+"@yao-pkg/pkg-fetch@3.6.7":
+  version "3.6.7"
+  resolved "https://registry.yarnpkg.com/@yao-pkg/pkg-fetch/-/pkg-fetch-3.6.7.tgz#5fb8a55031846ef105efeaf4beae0d4f4ed47540"
+  integrity sha512-uEeU5druVgHffruTAXzW6nf0wHfREWlCq5LBtQ4hCdLBDbwTteuym5NrxREur3EgNcqFRenEi6Rivwo723PkHg==
   dependencies:
     picocolors "^1.1.0"
     progress "^2.0.3"
